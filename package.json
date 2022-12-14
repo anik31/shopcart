@@ -10,7 +10,7 @@
   "author": "Aniket Prakash <b218004@iiit-bh.ac.in>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2"
   }
